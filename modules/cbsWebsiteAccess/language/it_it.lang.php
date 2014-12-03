@@ -4,6 +4,7 @@ $mod_strings = array (
     'cbsWebsiteAccess' => 'Website Accesso',
     'SINGLE_cbsWebsiteAccess' => 'Website Accesso',
 	'cbsWebsiteAccess ID' => 'Website Access ID',
+	'Website Access' => 'Website Access',
     'Website Access No.' => 'Website Accesso No.',
     'Access Date' => 'Accesso Data',
     'Access Time' => 'Accesso Tempo',
