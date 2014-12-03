@@ -1,15 +1,16 @@
 <?php
 $mod_strings = array (
 //label of the distributor module
-    'cbsWebsiteAccess' => 'Website Accesso',
-    'cbsWebsiteAccess' => 'Website Accesso',
-    'websiteaccessno' => 'Website Accesso No.',
-    'access_date' => 'Accesso Data',
-    'access_time' => 'Accesso Tempo',
-    'relid' => 'Relato a',
-    'access_url' => 'Accesso URL',
-    'access_web' => 'Accesso Web',
-    'sitevisit' => 'Site Visit',
+    'Website Access' => 'Website Accesso',
+    'SINGLE_Website Access' => 'Website Accesso',
+	'Website Access ID' => 'Website Access ID',
+    'Website Access No.' => 'Website Accesso No.',
+    'Access Date' => 'Accesso Data',
+    'Access Time' => 'Accesso Tempo',
+    'Related to' => 'Relato a',
+    'Access URL' => 'Accesso URL',
+    'Access Web' => 'Accesso Web',
+    'Site Visit' => 'Site Visit',
 
     'LBL_CUSTOM_INFORMATION' => 'Informazioni Personalizzate',
     'LBL_CBSWEBSITEACCESS_INFORMATION' => 'Informazioni Website Accesso',

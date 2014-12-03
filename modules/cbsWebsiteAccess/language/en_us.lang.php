@@ -9,15 +9,16 @@
  ************************************************************************************/
 
 $mod_strings = Array(
-    'cbsWebsiteAccess' => 'Website Access',
-    'cbsWebsiteAccess' => 'Website Access',
-    'websiteaccessno' => 'Website Access No.',
-    'access_date' => 'Access Date',
-    'access_time' => 'Access Time',
-    'relid' => 'Related to',
-    'access_url' => 'Access URL',
-    'access_web' => 'Access Web',
-    'sitevisit' => 'Site Visit',
+    'Website Access' => 'Website Access',
+    'SINGLE_Website Access' => 'Website Access',
+	'Website Access ID' => 'Website Access ID',
+    'Website Access No.' => 'Website Access No.',
+    'Access Date' => 'Access Date',
+    'Access Time' => 'Access Time',
+    'Related to' => 'Related to',
+    'Access URL' => 'Access URL',
+    'Access Web' => 'Access Web',
+    'Site Visit' => 'Site Visit',
 
     'LBL_CUSTOM_INFORMATION' => 'Custom Information',
     'LBL_CBSWEBSITEACCESS_INFORMATION' => 'Website Access Information',
