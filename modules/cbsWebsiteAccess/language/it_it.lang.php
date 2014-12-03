@@ -1,9 +1,9 @@
 <?php
 $mod_strings = array (
 //label of the distributor module
-    'Website Access' => 'Website Accesso',
-    'SINGLE_Website Access' => 'Website Accesso',
-	'Website Access ID' => 'Website Access ID',
+    'cbsWebsiteAccess' => 'Website Accesso',
+    'SINGLE_cbsWebsiteAccess' => 'Website Accesso',
+	'cbsWebsiteAccess ID' => 'Website Access ID',
     'Website Access No.' => 'Website Accesso No.',
     'Access Date' => 'Accesso Data',
     'Access Time' => 'Accesso Tempo',
