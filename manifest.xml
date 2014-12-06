@@ -351,7 +351,7 @@
 <readonly>1</readonly>
 <presence>2</presence>
 <defaultvalue></defaultvalue>
-<sequence>11</sequence>
+<sequence>1</sequence>
 <maximumlength>100</maximumlength>
 <typeofdata>V~O</typeofdata>
 <quickcreate>1</quickcreate>
