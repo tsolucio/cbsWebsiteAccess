@@ -9,12 +9,20 @@
  ************************************************************************************/
 
 $mod_strings = Array(
-	'ModuleName' => 'Module Name',
-	'SINGLE_ModuleName' => 'Module Name',
-	'ModuleName ID' => 'Module Name ID',
+	'cbsWebsiteAccess' => 'Acceso Website',
+	'SINGLE_cbsWebsiteAccess' => 'Acceso Website',
+	'cbsWebsiteAccess ID' => 'ID Acceso Website',
+	'Website Access' => 'Acceso Website',
+	'Website Access No.' => 'Nº Acceso Website',
+	'Access Date' => 'Fecha Acceso',
+	'Access Time' => 'Hora Acceso',
+	'Related to' => 'Relacionado con',
+	'Access URL' => 'URL Acceso',
+	'Access Web' => 'Web Acceso',
+	'Site Visit' => 'Visita Sitio',
 
+	'LBL_CBSWEBSITEACCESS_INFORMATION' => 'Información Acceso Website',
 	'LBL_CUSTOM_INFORMATION' => 'Información Personalizada',
-	'LBL_MODULEBLOCK_INFORMATION' => 'Información ModuleName',
 	'LBL_DESCRIPTION_INFORMATION' => 'Descripción',
 
 );
