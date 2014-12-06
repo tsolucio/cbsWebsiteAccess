@@ -12,7 +12,6 @@ $mod_strings = Array(
     'cbsWebsiteAccess' => 'Website Access',
     'SINGLE_cbsWebsiteAccess' => 'Website Access',
 	'cbsWebsiteAccess ID' => 'Website Access ID',
-	'Website Access' => 'Website Access',
     'Website Access No.' => 'Website Access No.',
     'Access Date' => 'Access Date',
     'Access Time' => 'Access Time',
@@ -20,6 +19,9 @@ $mod_strings = Array(
     'Access URL' => 'Access URL',
     'Access Web' => 'Access Web',
     'Site Visit' => 'Site Visit',
+	'websiteid' => 'Website ID',
+	'extcmpid' => 'External Campaign',
+	'cmpid' => 'Campaign',
 
     'LBL_CUSTOM_INFORMATION' => 'Custom Information',
     'LBL_CBSWEBSITEACCESS_INFORMATION' => 'Website Access Information',
