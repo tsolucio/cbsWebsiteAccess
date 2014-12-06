@@ -43,6 +43,9 @@
   `cmpid` int(11) DEFAULT NULL,
   PRIMARY KEY (`cbswebsiteaccessid`),
   index (`relid`),
+  index(`cmpid`),
+  index(`websiteid`),
+  index(`extcmpid`),
   index (`access_date`,`access_time`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
 </table>
